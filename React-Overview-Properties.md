@@ -97,3 +97,8 @@ React divides web page into multiple components with its own logic and design ma
 
 ## 8. Declarative UI
 This feature enables react code to be easily readable and debuggable. That  too UI are not just for web but for mobile as well with React Native
+
+To clear more such topics and diving deep into React Js Stay Connected!
+Happy Learning :}
+
+- Article by Ayushi Jain
